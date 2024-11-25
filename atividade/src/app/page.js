@@ -4,7 +4,7 @@ import styles from "./page.module.css";
 export default function Home() {
   return (
     <div className="main">
-        <h1>Primeira página1</h1>
+        <h1>Primeira página</h1>
     </div>
   );
 }
